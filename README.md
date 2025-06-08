@@ -1,4 +1,4 @@
-# 🏎️ F1 2025 Champion Prediction
+# F1 2025 Champion Prediction
 
 This project is a data-driven machine learning analysis aimed at predicting the potential 2025 Formula 1 World Champion. By leveraging historical race data, we use a combination of data science techniques and classification models to estimate which driver or team is most likely to win the 2025 title.
 
@@ -59,7 +59,7 @@ This project showcases how machine learning can be used in sports analytics, par
 - Driver behavior scores
 - Race position and round information
 
-## 🧠 Models Implemented
+## 📌 Models Implemented
 - Logistic Regression
 - Random Forest Classifier
 - K-Nearest Neighbors
@@ -86,7 +86,9 @@ cd f1-2025-champion-prediction
 pip install -r requirements.txt
 4). Open the notebook:
 jupyter notebook Internship_task_Final.ipynb
-
+```
 📌 Author
+
 Sohail — Artificial Intelligence Student
+
 University: NUTECH, Pakistan
